@@ -4,4 +4,4 @@ BlockPlacersAndPreakers is a plugin that turn dispensers into devices that can b
 
 ## API documentation
 
-* [JavaDocs](eirikh1996.github.io/projects/blockplacersandbreakers/javadocs/index.html)
+* [JavaDocs](javadocs/index.html)
