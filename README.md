@@ -8,3 +8,5 @@ Developer of plugins for Bukkit and Spigot
 - Movecraft-GriefPrevention
 - Movecraft-PlotSquared
 - Movecraft-WorldBorder
+
+https://discordapp.com/api/guilds/605699086309523467/widget.json
