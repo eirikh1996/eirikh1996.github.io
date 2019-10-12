@@ -9,4 +9,4 @@ Developer of plugins for Bukkit and Spigot
 - Movecraft-PlotSquared
 - Movecraft-WorldBorder
 
-https://discordapp.com/api/guilds/605699086309523467/widget.json
+<iframe src="https://discordapp.com/widget?id=605699086309523467&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
